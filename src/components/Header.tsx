@@ -12,7 +12,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <GraduationCap className="h-8 w-8 text-indigo-600 dark:text-indigo-400" />
-          <span className="font-bold text-xl text-gray-900 dark:text-white">CareerPath Finder</span>
+          <span className="font-bold text-xl text-gray-900 dark:text-white">Course Recommendation System</span>
         </Link>
         
         <div className="flex items-center space-x-4">
