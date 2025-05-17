@@ -58,7 +58,7 @@ const Home: React.FC = () => {
 
       <section className="py-12 bg-indigo-50 dark:bg-indigo-900/20 rounded-lg p-8 mt-8">
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Why Choose CareerPath Finder?</h2>
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Why Choose our Course Recommendation System?</h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
             Making career decisions is difficult. We leverage advanced AI to analyze your academic profile and provide personalized recommendations.
           </p>
