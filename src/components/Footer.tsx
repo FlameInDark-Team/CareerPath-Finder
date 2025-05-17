@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-600 dark:text-gray-300 text-sm">
-            © {new Date().getFullYear()} CareerPath Finder. All rights reserved.
+            © {new Date().getFullYear()} Course Recommendation System. All rights reserved.
           </p>
           
           <div className="flex items-center mt-4 md:mt-0">
