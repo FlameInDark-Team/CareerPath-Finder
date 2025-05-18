@@ -83,7 +83,7 @@ Course Recommendation System
 <pre><code class="language-sh">npm start
 </code></pre>
 <h3>Testing</h3>
-<p>Careerpath-finder uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
+<p>Careerpath-finder uses the <strong>Express</strong> test framework. Run the test suite with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
 <pre><code class="language-sh">npm test
 </code></pre>
